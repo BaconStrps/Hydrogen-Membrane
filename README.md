@@ -6,7 +6,7 @@ It takes a topology file, reads it for the corresponding membrane (assuming a du
 calculates the boundaries of the membrane, then calculates how many hydrogens are facing the membrane on each water and adds them up
 outputting everything to output.txt.
 
-**THIS PROGRAM CURRENTLY ASSUMES THE HEADGROUP HAS A NITROGEN. THIS CAN BE CHANGED IN GRO.H AT LINE 136**
+**THIS PROGRAM CURRENTLY ASSUMES THE HEADGROUP HAS A NITROGEN. THIS CAN BE CHANGED IN GRO.CPP AT LINE 105**
 
 -f (step.gro) (string)  
    	filename / path to file (.gro file)  
