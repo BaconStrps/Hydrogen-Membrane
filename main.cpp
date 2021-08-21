@@ -1,7 +1,7 @@
 #include <cstdlib>
 #include <iostream>
-#include "gfile.h"
-#include "func.h"
+#include "Resources/gfile.h"
+#include "Resources/func.h"
 
 void checkcommands(char** trr, char** index, float& a, char** w, char** m, char** top, int argc, char** argv);
 
